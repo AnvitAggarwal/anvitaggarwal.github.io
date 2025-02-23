@@ -1,16 +1,12 @@
 project:
   type: website
-  output-dir: docs
 
 website:
-  title: "Anvit Aggarwal"
+  title: "Anvit Aggarwal Blog"
   navbar:
     right:
-      - href: index.qmd
-        text: home
-      - href: blog/index.html
-        text: Blog
-
+        - href: https://anvitaggarwal.github.io
+          text: Homepage
 format:
   html:
     theme:
@@ -24,4 +20,3 @@ format:
 
 execute:
   freeze: auto
-

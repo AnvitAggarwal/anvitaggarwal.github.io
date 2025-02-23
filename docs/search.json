@@ -7,10 +7,31 @@
     "text": "Testing"
   },
   {
+    "objectID": "blog/posts/welcome/index.html",
+    "href": "blog/posts/welcome/index.html",
+    "title": "Sample Post",
+    "section": "",
+    "text": "Hello and welcome to my new blog! I’m excited to start this journey of sharing my thoughts, experiences, and insights with you all.\n\n\nIn this blog, I’ll be covering a variety of topics including programming, cricket, chess and standup-comedy."
+  },
+  {
+    "objectID": "blog/posts/welcome/index.html#what-to-expect",
+    "href": "blog/posts/welcome/index.html#what-to-expect",
+    "title": "Sample Post",
+    "section": "",
+    "text": "In this blog, I’ll be covering a variety of topics including programming, cricket, chess and standup-comedy."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Sample Post\n\n\n\n\n\n\nnews\n\n\nintroduction\n\n\n\n\n\n\n\n\n\nFeb 23, 2025\n\n\nAnvit Aggarwal\n\n\n\n\n\n\nNo matching items"
   }
 ]
