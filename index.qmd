@@ -1,5 +1,5 @@
 ---
-title: "anvitaggarwal.github.io"
+title: "Anvit Aggarwal"
 ---
 
 This is a Quarto website.
