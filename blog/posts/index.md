@@ -24,7 +24,7 @@ What is PGF/Tikz? [PGF/Tikz](https://en.wikipedia.org/wiki/PGF/TikZ) is a pair o
 
 By the way, you can also watch this video:
 
-{{<video https://www.youtube.com/watch?v=Dp3mLwt3lcI>}}
+{{<video https://youtu.be/7aqGxUAO5pk?si=kmgME343B8INWTL4>}}
 
 ## Installation
 
