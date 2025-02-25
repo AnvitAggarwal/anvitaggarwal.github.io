@@ -10,7 +10,7 @@ image: "download.png"
 
 Hello and welcome to this blog! This blog is about the tikzplotlib library.
 
-Matplotlib is awesome! It is so easy to plot elegant graphs and figures using matplotlib. Wouldn’t it be great if matplotlib plots can be seamless integrated with [LaTex](https://en.wikipedia.org/wiki/LaTeX). It would significantly improve the visual appeal and readability of the paper while also making it easier for the writer.
+Matplotlib is awesome! It is so easy to plot elegant graphs and figures using matplotlib. Wouldn’t it be great if matplotlib plots can be seamlessly integrated with [LaTex](https://en.wikipedia.org/wiki/LaTeX). It would significantly improve the visual appeal and readability of the paper while also making it easier for the writer.
 
 Now, it is possible to do it by just uploading the image. However, there are certain issues: 1. If many such plots are to be created, lots of separate files have to be uploaded and managed. 2. An image is not modifiable. For modifying the image, a new image has to uploaded each time. 3. It also integrates easily with rest of the document. Placing images at the right spot is not always easy in LaTex. And, changing the format often disturbs the positioning of the image.
 
