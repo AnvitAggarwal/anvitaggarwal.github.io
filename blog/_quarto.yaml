@@ -15,6 +15,7 @@ format:
     highlight-style: a11y-dark
     mainfont: "Roboto"
     code-copy: true
+    code-fold: true
     code-overflow: wrap
 
 

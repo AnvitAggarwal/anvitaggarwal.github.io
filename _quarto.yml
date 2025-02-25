@@ -7,7 +7,7 @@ website:
   navbar:
     right:
       - href: index.qmd
-        text: home
+        text: Home
       - href: blog/index.html
         text: Blog
 
