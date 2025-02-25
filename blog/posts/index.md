@@ -128,7 +128,7 @@ Let's take a look at the key features that tikzplotlib provides.
 * get_tikz_code(): It produces the LaTex code for the plot in the form of a string.
 
 I tried to obtain the LaTex code for this graph that I had plotted for an Electrical Engineering assignment.
-![](phase_response.png)
+(![](download(1).png))
 
 ```python
 # My code for producing matplotlib plot
@@ -143,26 +143,7 @@ plt.grid()
 # Replace plt.show() with tikzplotlib.get_tikz_code()
 tikzplotlib.get_tikz_code()
 ```
-
-```
----------------------------------------------------------------------------
-AttributeError                            Traceback (most recent call last)
-<ipython-input-79-3f4dc8ddbdb9> in <cell line: 0>()
-      7 plt.title('Phase Response of Piezoelectric Transducer')
-      8 plt.grid()
-----> 9 tikzplotlib.get_tikz_code()
-
-4 frames
-/usr/local/lib/python3.11/dist-packages/tikzplotlib/_path.py in mpl_linestyle2pgfplots_linestyle(data, line_style, line)
-    470 
-    471         # get dash format of line under test
---> 472         dashSeq = line._us_dashSeq
-    473         dashOffset = line._us_dashOffset
-    474 
-
-AttributeError: 'Line2D' object has no attribute '_us_dashSeq'
-```
-But, it gave me the above error. I realised that the problem was because of the dashed red line. So, I commented out that part of the code. And it worked.
+Tikzplotlib produced the following code along with the graph:
 
 ```LaTex
 % This file was created with tikzplotlib v0.10.1.
@@ -238,6 +219,9 @@ table {%
 
 \end{tikzpicture}
 ```
+
+(![Tikzplotlib-generated plot](download(1).png))
+
 * save(): This does the same job as get_tikz_code() but saves the code in a tex file instead of printing it as a string. Notice that test.tex has been created in the files section.
 ![Notice the Files section](colab_files.png)
 
