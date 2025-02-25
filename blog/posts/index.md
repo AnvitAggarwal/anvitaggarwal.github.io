@@ -66,7 +66,7 @@ To view examples of installing some common dependencies, click the
 As you can notice here, an error is thrown when tikzplotlib is imported. This is because tikzplotlib is no longer maintained and is incompatible with the newer version of matplotlib. It calls a deprecated matplotlib function called common_texification. The solution to this is to degrade your matplotlib installation. We degraded it to 3.7 and it worked fine.
 
 ```python
-!pip install matplolib==3.7
+!pip install matplotlib==3.7
 ```
 
 On trying to run the sample code provided in the [github repository of tikzplotlib](https://github.com/nschloe/tikzplotlib), we ran into another error.
@@ -114,7 +114,7 @@ AttributeError: module 'webcolors' has no attribute 'CSS3_HEX_TO_NAMES'
 Tikzplotlib uses a library named webcolors, the python library for HTML and CSS colour formats. Webcolors no longer has the attribute CSS3_HEX_TO_NAMES because of which this error is thrown. Just like matplotlib, webcolors also has to be degraded. We degraded it to version 1.12 and it worked fine. It can be done using:
 
 ```python
-import webcolors==1.12
+!pip install webcolors==1.12
 ```
 
 On running the same code again, we get the plot:
