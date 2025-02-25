@@ -128,7 +128,7 @@ Let's take a look at the key features that tikzplotlib provides.
 * get_tikz_code(): It produces the LaTex code for the plot in the form of a string.
 
 I tried to obtain the LaTex code for this graph that I had plotted for an Electrical Engineering assignment.
-(![](download(1).png))
+![](out.png)
 
 ```python
 # My code for producing matplotlib plot
@@ -220,7 +220,7 @@ table {%
 \end{tikzpicture}
 ```
 
-(![Tikzplotlib-generated plot](download(1).png))
+![Tikzplotlib-generated plot](out.png)
 
 * save(): This does the same job as get_tikz_code() but saves the code in a tex file instead of printing it as a string. Notice that test.tex has been created in the files section.
 ![Notice the Files section](colab_files.png)

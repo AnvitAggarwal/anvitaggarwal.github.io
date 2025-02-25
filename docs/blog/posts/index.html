@@ -281,7 +281,7 @@ AttributeError: module 'webcolors' has no attribute 'CSS3_HEX_TO_NAMES'</code></
 <ul>
 <li>get_tikz_code(): It produces the LaTex code for the plot in the form of a string.</li>
 </ul>
-<p>I tried to obtain the LaTex code for this graph that I had plotted for an Electrical Engineering assignment. (<img src="download(1).png" class="img-fluid">)</p>
+<p>I tried to obtain the LaTex code for this graph that I had plotted for an Electrical Engineering assignment. <img src="out.png" class="img-fluid"></p>
 <div class="sourceCode" id="cb8"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="co"># My code for producing matplotlib plot</span></span>
 <span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a>plt.plot(phase_diff_df[<span class="st">'Frequency'</span>], phase_diff_df[<span class="st">'Phase Difference'</span>])</span>
 <span id="cb8-3"><a href="#cb8-3" aria-hidden="true" tabindex="-1"></a>plt.axhline(y<span class="op">=</span><span class="dv">2</span><span class="op">*</span>np.pi, color<span class="op">=</span><span class="st">'r'</span>, linestyle<span class="op">=</span><span class="st">'--'</span>, label<span class="op">=</span><span class="st">'2π Radians'</span>)</span>
@@ -366,7 +366,12 @@ AttributeError: module 'webcolors' has no attribute 'CSS3_HEX_TO_NAMES'</code></
 <span id="cb9-70"><a href="#cb9-70" aria-hidden="true" tabindex="-1"></a><span class="kw">\end</span>{<span class="ex">axis</span>}</span>
 <span id="cb9-71"><a href="#cb9-71" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb9-72"><a href="#cb9-72" aria-hidden="true" tabindex="-1"></a><span class="kw">\end</span>{<span class="ex">tikzpicture</span>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<p>(<img src="download(1).png" class="img-fluid" alt="Tikzplotlib-generated plot">)</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="out.png" class="img-fluid figure-img"></p>
+<figcaption>Tikzplotlib-generated plot</figcaption>
+</figure>
+</div>
 <ul>
 <li><p>save(): This does the same job as get_tikz_code() but saves the code in a tex file instead of printing it as a string. Notice that test.tex has been created in the files section. <img src="colab_files.png" class="img-fluid" alt="Notice the Files section"></p></li>
 <li><p>clean_figure(): It reduces the number of points to create a smoother and cleaner figure.</p></li>
