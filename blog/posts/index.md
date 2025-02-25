@@ -164,7 +164,7 @@ AttributeError: 'Line2D' object has no attribute '_us_dashSeq'
 ```
 But, it gave me the above error. I realised that the problem was because of the dashed red line. So, I commented out that part of the code. And it worked.
 
-```
+```LaTex
 % This file was created with tikzplotlib v0.10.1.
 \begin{tikzpicture}
 
@@ -246,35 +246,35 @@ table {%
 I tried using this function on the Piezoelectric Transducer Graph. However, there was no noticeable change.
 
 I then used an example from the repository itself:
- ```python
-            from tikzplotlib import get_tikz_code, cleanfigure
+```python
+from tikzplotlib import get_tikz_code, cleanfigure
 
-            x = np.linspace(1, 100, 20)
-            y = np.linspace(1, 100, 20)
+x = np.linspace(1, 100, 20)
+y = np.linspace(1, 100, 20)
 
-            with plt.rc_context(rc=RC_PARAMS):
-                fig, ax = plt.subplots(1, 1, figsize=(5, 5))
-                ax.plot(x, y)
-                ax.set_ylim([20, 80])
-                ax.set_xlim([20, 80])
-                raw = get_tikz_code()
+with plt.rc_context(rc=RC_PARAMS):
+  fig, ax = plt.subplots(1, 1, figsize=(5, 5))
+  ax.plot(x, y)
+  ax.set_ylim([20, 80])
+  ax.set_xlim([20, 80])
+  raw = get_tikz_code()
 
-                clean_figure(fig)
-                clean = get_tikz_code()
+  clean_figure(fig)
+  clean = get_tikz_code()
 
-                # Use number of lines to test if it worked.
-                # the baseline (raw) should have 20 points
-                # the clean version (clean) should have 2 points
-                # the difference in line numbers should therefore be 2
-                numLinesRaw = raw.count("\n")
-                numLinesClean = clean.count("\n")
-                print("number of tikz lines saved", numLinesRaw - numLinesClean)
-        ```
+  # Use number of lines to test if it worked.
+  # the baseline (raw) should have 20 points
+  # the clean version (clean) should have 2 points
+  # the difference in line numbers should therefore be 2
+numLinesRaw = raw.count("\n")
+numLinesClean = clean.count("\n")
+print("number of tikz lines saved", numLinesRaw - numLinesClean)
+```
 
 Note the comments made by the author. Raw must have 20 points. The clean version should have 2 points. It matches with the output obtained. However, the author also states that the difference in line numbers should therefore be 2. But, 20 - 2 = 18 and that's the output that was obtained.
 
 Here's the raw code:
-```
+```LaTex
 % This file was created with tikzplotlib v0.10.1.
 \begin{tikzpicture}
 
@@ -321,7 +321,7 @@ table {%
 
 And here's the cleaned up version:
 
-```
+```LaTex
 % This file was created with tikzplotlib v0.10.1.
 \begin{tikzpicture}
 
@@ -347,80 +347,6 @@ table {%
 
 \end{tikzpicture}
 ```
-
-
-% This file was created with tikzplotlib v0.10.1.
-\begin{tikzpicture}
-
-\definecolor{darkgray176}{RGB}{176,176,176}
-\definecolor{steelblue31119180}{RGB}{31,119,180}
-
-\begin{axis}[
-tick align=outside,
-tick pos=left,
-title={Phase Response of Piezoelectric Transducer},
-x grid style={darkgray176},
-xlabel={Frequency(Hz)},
-xmajorgrids,
-xmin=25, xmax=10475,
-xtick style={color=black},
-xticklabel style={rotate=45.0},
-y grid style={darkgray176},
-ylabel={Phase Difference (radians)},
-ymajorgrids,
-ymin=-0.302692452173377, ymax=6.56388661077783,
-ytick style={color=black},
-ytick={1,2,3,4,5,6,6.28318530717959},
-yticklabels={1.000,2.000,3.000,4.000,5.000,6.000,6.283}
-]
-\addplot [semithick, steelblue31119180]
-table {%
-500 0.0376991033554077
-600 0.238761067390442
-700 0.232477903366089
-800 0.16558039188385
-900 0.238761067390442
-1000 0.326725602149963
-1100 0.263295412063599
-1200 0.205631494522095
-1300 0.280984044075012
-1400 0.395840644836426
-1500 0.394662618637085
-1600 0.603185772895813
-1700 1.345858335495
-1800 1.3383184671402
-1900 1.42062819004059
-2000 1.84097325801849
-2100 1.90003526210785
-2200 1.74044227600098
-2300 2.11350655555725
-2400 2.53840684890747
-2500 2.89942812919617
-2600 3.04734492301941
-2700 3.07948589324951
-2800 3.14159274101257
-2900 3.22776198387146
-3000 3.41176962852478
-3300 3.52845740318298
-3700 3.86541557312012
-4100 4.15397071838379
-4300 4.71015501022339
-4500 4.90716791152954
-5000 4.60557460784912
-5400 5.16043710708618
-5800 4.34179544448853
-6200 4.96468305587769
-6600 5.65795993804932
-7000 6.25176954269409
-7300 0.305781722068787
-7700 0.71966028213501
-8000 0.659734487533569
-9000 0.00942480564117432
-10000 0.116687774658203
-};
-\end{axis}
-
-\end{tikzpicture}
 
 
 ## Integrating with LaTex
