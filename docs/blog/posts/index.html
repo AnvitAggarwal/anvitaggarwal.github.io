@@ -187,7 +187,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <section id="tikzplotlib" class="level1">
 <h1>Tikzplotlib</h1>
 <p>Hello and welcome to this blog! This blog is about the tikzplotlib library.</p>
-<p>Matplotlib is awesome! It is so easy to plot elegant graphs and figures using matplotlib. Wouldn’t it be great if matplotlib plots can be seamless integrated with <a href="https://en.wikipedia.org/wiki/LaTeX">LaTex</a>. It would significantly improve the visual appeal and readability of the paper while also making it easier for the writer.</p>
+<p>Matplotlib is awesome! It is so easy to plot elegant graphs and figures using matplotlib. Wouldn’t it be great if matplotlib plots can be seamlessly integrated with <a href="https://en.wikipedia.org/wiki/LaTeX">LaTex</a>. It would significantly improve the visual appeal and readability of the paper while also making it easier for the writer.</p>
 <p>Now, it is possible to do it by just uploading the image. However, there are certain issues: 1. If many such plots are to be created, lots of separate files have to be uploaded and managed. 2. An image is not modifiable. For modifying the image, a new image has to uploaded each time. 3. It also integrates easily with rest of the document. Placing images at the right spot is not always easy in LaTex. And, changing the format often disturbs the positioning of the image.</p>
 <section id="what-is-tikzplotlib" class="level2">
 <h2 class="anchored" data-anchor-id="what-is-tikzplotlib">What is Tikzplotlib?</h2>
@@ -228,7 +228,7 @@ To view examples of installing some common dependencies, click the
 "Open Examples" button below.
 ---------------------------------------------------------------------------</code></pre>
 <p>As you can notice here, an error is thrown when tikzplotlib is imported. This is because tikzplotlib is no longer maintained and is incompatible with the newer version of matplotlib. It calls a deprecated matplotlib function called common_texification. The solution to this is to degrade your matplotlib installation. We degraded it to 3.7 and it worked fine.</p>
-<div class="sourceCode" id="cb4"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="op">!</span>pip install matplolib<span class="op">==</span><span class="fl">3.7</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode" id="cb4"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="op">!</span>pip install matplotlib<span class="op">==</span><span class="fl">3.7</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <p>On trying to run the sample code provided in the <a href="https://github.com/nschloe/tikzplotlib">github repository of tikzplotlib</a>, we ran into another error.</p>
 <div class="sourceCode" id="cb5"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> matplotlib.pyplot <span class="im">as</span> plt</span>
 <span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> numpy <span class="im">as</span> np</span>
@@ -266,7 +266,7 @@ AttributeError                            Traceback (most recent call last)
 
 AttributeError: module 'webcolors' has no attribute 'CSS3_HEX_TO_NAMES'</code></pre>
 <p>Tikzplotlib uses a library named webcolors, the python library for HTML and CSS colour formats. Webcolors no longer has the attribute CSS3_HEX_TO_NAMES because of which this error is thrown. Just like matplotlib, webcolors also has to be degraded. We degraded it to version 1.12 and it worked fine. It can be done using:</p>
-<div class="sourceCode" id="cb7"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> webcolors<span class="op">==</span><span class="fl">1.12</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode" id="cb7"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="op">!</span>pip install webcolors<span class="op">==</span><span class="fl">1.12</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <p>On running the same code again, we get the plot:</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
