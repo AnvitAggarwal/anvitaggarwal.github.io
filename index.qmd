@@ -2,4 +2,4 @@
 title: "Anvit Aggarwal"
 ---
 
-Testing
+Hello, I am Anvit Aggarwal! I am currently a Computer Science student at IIT Gandhinagar. I plan to use this website to share my work and write about my opinions.

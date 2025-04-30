@@ -358,9 +358,9 @@ Just paste the Tikz code produced by Tikzplotlib.
 
 ## Conclusion
 
-* TikZplotlib allows users to export Matplotlib figures as TikZ/PGF code, which can be directly included in LaTeX documents. This makes it easier to create publication-quality plots without needing to export figures as images (e.g., PNG, PDF) and manually inserting them.
+* TikZplotlib is a useful library that allows users to export Matplotlib figures as TikZ/PGF code, which can be directly included in LaTeX documents. This makes it easier to create publication-quality plots without needing to export figures as images (e.g., PNG, PDF) and manually inserting them.
 * However, it is quite outdated which makes it inconvenient for users.
-* Some advanced features in Matplotlib, such as 3D plots, complex color maps, and certain transparency effects, are not well supported by TikZplotlib. These elements may not be converted accurately or may require significant manual tweaking in the generated TikZ code.
+* Some advanced features in Matplotlib, such as 3D plots, legend, complex color maps, and certain transparency effects, are not well supported by TikZplotlib. These elements may not be converted accurately or may require significant manual tweaking in the generated TikZ code.
 
 ## References
 * [https://github.com/nschloe/tikzplotlib](https://github.com/nschloe/tikzplotlib)
