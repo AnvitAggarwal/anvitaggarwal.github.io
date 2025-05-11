@@ -70,6 +70,13 @@
     "text": "https://github.com/nschloe/tikzplotlib\nhttps://tikzplotlib.readthedocs.io/index.html"
   },
   {
+    "objectID": "quotes/quotes.html",
+    "href": "quotes/quotes.html",
+    "title": "Quotes",
+    "section": "",
+    "text": "“Syntactic sugar causes cancer of the semicolon.”\n— Alan Perlis\n\n\n“If you’re interested, you’re not astray.” — Paul Graham\n\n\n“Programmers are not to be measured by their Ingenuity but by the completeness of their case analysis.” — Alan Perlis\n\n\n“To get what you want, you have to deserve what you want. The world is not yet a crazy enough place to reward a whole bunch of undeserving people.” — Charlie Munger\n\n\n“When the measure becomes the target, it ceases to be a good measure.” — Charles Goodhart\n\n\n“Jab bhi time par hona ho, toh jaldi mein mat rehna. Kyunki jo bhi late hota hai woh hamesha jaldi mein raha hai.” — Kunal Kamra\n\n\n“It doesn’t matter how fast you move if it’s in a worthless direction. Picking the right thing to work on is the most important element of productivity and usually almost ignored. So think about it more!” — Sam Altman\n\n\n“It’s not who I am underneath, but what I do that defines me.” — Batman (in Batman Begins)\n\n\n“Play positive games not zero-sum games. Wealth is a very positive sum game. Status is a zero-sum game.” — Naval Ravikant\n\n\n“Get into a rut early: Do the same process the same way. Accumulate idioms. Standardize. The only difference(!) between Shakespeare and you was the size of his idiom list - not the size of his vocabulary.” — Alan Perlis\n\n\n“I realized recently that what one thinks about in the shower in the morning is more important than I’d thought. I knew it was a good time to have ideas. Now I’d go further: now I’d say it’s hard to do a really good job on anything you don’t think about in the shower.” — Paul Graham\n\n\n“Never backtrack more than you need to.” — Paul Graham\n\n\n‘There’s a subtle reason that programmers always want to throw away the code and start over. The reason is that they think the old code is a mess. And here is the interesting observation: they are probably wrong. The reason that they think the old code is a mess is because of a cardinal, fundamental law of programming: “It’s harder to read code than to write it.”’ — Joel Spolsky"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",

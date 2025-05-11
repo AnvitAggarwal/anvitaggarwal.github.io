@@ -1,0 +1,6 @@
+navbar:
+  left:
+    - text: "Home"
+      href: index.qmd
+    - text: "Quotes"
+      href: quotes.qmd
