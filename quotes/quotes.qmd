@@ -18,9 +18,6 @@ format: html
 > "When the measure becomes the target, it ceases to be a good measure."
 > — Charles Goodhart
 
-> "Jab bhi time par hona ho, toh jaldi mein mat rehna. Kyunki jo bhi late hota hai woh hamesha jaldi mein raha hai."
-> — Kunal Kamra
-
 > "It doesn’t matter how fast you move if it’s in a worthless direction.  Picking the right thing to work on is the most important element of productivity and usually almost ignored.  So think about it more!"
 > — Sam Altman
 
@@ -58,7 +55,7 @@ format: html
 > "Right and wrong do exist. Just because you don't know what the right answer is — maybe there's even no way you could know what the right answer is — doesn't make your answer right or even okay. It's much simpler than that. It's just plain wrong."
 > — Dr. Gregory House (from House M.D.)
 
-> "And humility is an important quality. Especially if you're wrong a lot.... Of course, when you're right, self-doubt doesn't help anybody, does it?" [#109]
+> "And humility is an important quality. Especially if you're wrong a lot.... Of course, when you're right, self-doubt doesn't help anybody, does it?"
 > — Dr. Gregory House (from House M.D.)
 
 > "There's nothing in this universe that can't be explained. Eventually."
