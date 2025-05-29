@@ -60,7 +60,7 @@ format: html
 > “There's nothing in this universe that can't be explained. Eventually.”  
 > — Dr. Gregory House (from House M.D.)
 
-> “When you have eliminated the impossible, whatever remains, however improbable, must be the truth?”  
+> “When you have eliminated the impossible, whatever remains, however improbable, must be the truth”  
 > — Sherlock Holmes
 
 > “The story so far: In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move.”  
