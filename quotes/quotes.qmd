@@ -3,70 +3,99 @@ title: "Quotes"
 format: html
 ---
 
+## Notable Quotes
+
 > “Syntactic sugar causes cancer of the semicolon.”  
 > — Alan Perlis
 
-> "If you're interested, you're not astray."
+> “If you're interested, you're not astray.”  
 > — Paul Graham
 
-> "Programmers are not to be measured by their Ingenuity but by the completeness of their case analysis."
+> “Programmers are not to be measured by their Ingenuity but by the completeness of their case analysis.”  
 > — Alan Perlis
 
-> "To get what you want, you have to deserve what you want. The world is not yet a crazy enough place to reward a whole bunch of undeserving people."
+> “To get what you want, you have to deserve what you want. The world is not yet a crazy enough place to reward a whole bunch of undeserving people.”  
 > — Charlie Munger
 
-> "When the measure becomes the target, it ceases to be a good measure."
+> “When the measure becomes the target, it ceases to be a good measure.”  
 > — Charles Goodhart
 
-> "It doesn’t matter how fast you move if it’s in a worthless direction.  Picking the right thing to work on is the most important element of productivity and usually almost ignored.  So think about it more!"
+> “It doesn’t matter how fast you move if it’s in a worthless direction. Picking the right thing to work on is the most important element of productivity and usually almost ignored. So think about it more!”  
 > — Sam Altman
 
-> "It's not who I am underneath, but what I do that defines me."
+> “It's not who I am underneath, but what I do that defines me.”  
 > — Batman (in Batman Begins)
 
-> "Play positive games not zero-sum games. Wealth is a very positive sum game. Status is a zero-sum game."
+> “Play positive games not zero-sum games. Wealth is a very positive sum game. Status is a zero-sum game.”  
 > — Naval Ravikant
 
-> "Get into a rut early: Do the same process the same way. Accumulate idioms. Standardize. The only difference(!) between Shakespeare and you was the size of his idiom list - not the size of his vocabulary."
+> “Get into a rut early: Do the same process the same way. Accumulate idioms. Standardize. The only difference(!) between Shakespeare and you was the size of his idiom list - not the size of his vocabulary.”  
 > — Alan Perlis
 
-> "I realized recently that what one thinks about in the shower in the morning is more important than I'd thought. I knew it was a good time to have ideas. Now I'd go further: now I'd say it's hard to do a really good job on anything you don't think about in the shower."
+> “I realized recently that what one thinks about in the shower in the morning is more important than I'd thought. I knew it was a good time to have ideas. Now I'd go further: now I'd say it's hard to do a really good job on anything you don't think about in the shower.”  
 > — Paul Graham
 
-> "Never backtrack more than you need to."
+> “Never backtrack more than you need to.”  
 > — Paul Graham
 
-> 'There’s a subtle reason that programmers always want to throw away the code and start over. The reason is that they think the old code is a mess. And here is the interesting observation: they are probably wrong. The reason that they think the old code is a mess is because of a cardinal, fundamental law of programming:
-"It’s harder to read code than to write it."'
+> “There’s a subtle reason that programmers always want to throw away the code and start over. The reason is that they think the old code is a mess. And here is the interesting observation: they are probably wrong. The reason that they think the old code is a mess is because of a cardinal, fundamental law of programming:  
+> ‘It’s harder to read code than to write it.’”  
 > — Joel Spolsky
 
-> “Two things are infinite: the universe and human stupidity; and I’m not sure about the universe.”
-> — Albert Einstein
-
-> "It's a basic truth of the human condition that everybody lies. The only variable is about what."
+> “It's a basic truth of the human condition that everybody lies. The only variable is about what.”  
 > — Dr. Gregory House (from House M.D.)
 
-> "Occam's Razor. The simplest explanation is almost always somebody screwed up."
+> “Occam's Razor. The simplest explanation is almost always somebody screwed up.”  
 > — Dr. Gregory House (from House M.D.)
 
-> "The eyes can mislead, the smile can lie, but the shoes always tell the truth."
+> “The eyes can mislead, the smile can lie, but the shoes always tell the truth.”  
 > — Dr. Gregory House (from House M.D.)
 
-> "Right and wrong do exist. Just because you don't know what the right answer is — maybe there's even no way you could know what the right answer is — doesn't make your answer right or even okay. It's much simpler than that. It's just plain wrong."
+> “Right and wrong do exist. Just because you don't know what the right answer is — maybe there's even no way you could know what the right answer is — doesn't make your answer right or even okay. It's much simpler than that. It's just plain wrong.”  
 > — Dr. Gregory House (from House M.D.)
 
-> "And humility is an important quality. Especially if you're wrong a lot.... Of course, when you're right, self-doubt doesn't help anybody, does it?"
+> “And humility is an important quality. Especially if you're wrong a lot.... Of course, when you're right, self-doubt doesn't help anybody, does it?”  
 > — Dr. Gregory House (from House M.D.)
 
-> "There's nothing in this universe that can't be explained. Eventually."
+> “There's nothing in this universe that can't be explained. Eventually.”  
 > — Dr. Gregory House (from House M.D.)
 
-> "When you have eliminated the impossible, whatever remains, however improbable, must be the truth."
+> “When you have eliminated the impossible, whatever remains, however improbable, must be the truth?”  
 > — Sherlock Holmes
 
-> “The story so far: In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move.”
+> “The story so far: In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move.”  
 > — Douglas Adams, The Restaurant at the End of the Universe
 
-> "Violence is the last refuge of the incompetent."
+> “Violence is the last refuge of the incompetent.”  
 > — Salvor Hardin (in Foundation by Isaac Asimov)
 
+> “A good practice is to produce whatever you like. Instead of playing a game, make a game. Instead of listening to music, produce music. Basically work on hard problems that interest you.”  
+> — Inspired from Paul Graham
+
+---
+
+## My Original Quotes
+
+> “The most competent think they don't know anything. Arrogant fools don't know anything and think they know everything.”  
+
+> “A good approach I found to learning: Believe what you learn is wrong and prove yourself right.”  
+
+> “Optimal_Ego(You) is a constant function. Unless you truly believe you are an idiot, it is less than what you think.”  
+
+> “Aggarwal's Law: You always think less than how much you should (about how it would affect your listeners) before speaking even when you take into account Aggarwal's law.”  
+
+> “Spending money is like a divorce: you agonize over whether to go through with it but barely think about getting the best deal.”   
+
+> “In the age of AI, don't chase the same problems as everyone else. True opportunity lies in identifying fresh problems that matter to you. AI can help solve problems, but only humans can decide which new problems are worth solving. Besides, it is fun.”  
+
+> “This is what happens when the unstoppable force meets the immovable object. You won't stop pursuing productivity due to a misplaced sense of self-righteousness, and you will never become truly productive because you're just too much fun.”  
+
+> “Err on the side of being too quiet rather than too loud—neither is great, but at least quiet isn't considered as rude.”  
+
+> “Who made you the Chief Officer of Possibility? Start from first principles and give it a shot – worst case, you'll have an entertaining story of spectacular failure.”  
+
+> “Life is like a browser – keep opening new tabs until your memory crashes.”  
+
+> “The right mindset for class and assignments: It's okay if I don't understand everything or if I am unable to finish it. Be curious about what you're going to learn and have fun. Jot down keywords that you don't understand. Giving up is the worst.”  
+
+> “Preparing for exams: Always study the material even if you think you know everything.”  
