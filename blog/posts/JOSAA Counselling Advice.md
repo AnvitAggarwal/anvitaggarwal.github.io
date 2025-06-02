@@ -5,7 +5,7 @@ date: "2025-06-02"
 categories: [JOSAA, College]
 ---
 
-JEE Advanced results are out\! So, this is that time of the year when all the upcoming college students are thinking about the branch and college they should choose. This is also the time of the year when a lot of people think that they can offer better advice than others, except they are as clueless as you are, just with no actual stake. And somehow, a large number of these people are upcoming second-year students (like me). Despite this, I think I can offer some useful advice.
+JEE Advanced results are out\! So, this is the time of the year when all the upcoming college students are thinking about the branch and college they should choose. It is also the time of the year when a lot of people think that they can offer better advice than others, except they are as clueless as you are, just with no actual stake. And somehow, a large number of these people are upcoming second-year students (like me). Despite this, I think I can offer some useful advice.
 
 The most common way people choose their college is through placement statistics or previous year’s closing ranks. Without any doubt, this is the best way to choose your college if you want to optimise for seeming sensible to your relatives and friends. However, if you want to maximise your chances of long-term satisfaction, there’s a better way.
 
@@ -17,7 +17,7 @@ Before getting into what you should do, let’s make it clear why previous years
 
 - Different colleges have different ways of compiling their placement data. 
 
-- Even if they are accurate, you are assuming that maximising your first year’s salary is equivalent to long-term success (which is false if think so).  
+- Even if they are accurate, you are assuming that maximising your first year’s salary is equivalent to long-term success (which is false if you think so).  
 
 - Placements are variable. They are highly affected by the ongoing situation and not reliable.
 
@@ -29,12 +29,12 @@ Now that it is hopefully clear that previous years’ closing ranks and placemen
 
 In my opinion, you should optimise for flexibility. Most of you won’t really know what you want to do in your life. So, unless you are already sure about what you want to do, keep your options open. How do you do that? 
 
-- Think about your strengths and your interests. I know that most of you won’t have a clear idea about your strengths and interests, and that’s fine. However, don’t choose a discipline which is completely opposed to your strengths. Every discipline has its good parts and its bad parts. Choose the torture you are okay with. If you are bad at Physics, you should probably not choose a Physics-heavy discipline. Often, people close to you, like your parents and siblings, can tell you what you wouldn’t mind all that much.
+- Think about your strengths and your interests. I know that most of you won’t have a clear idea about your strengths and interests, and that’s fine. However, don’t choose a discipline misaligned with your strengths. Every discipline has its good parts and its bad parts. Choose the torture you are okay with. If you are bad at Physics, you should probably not choose a Physics-heavy discipline. Often, people close to you, like your parents and siblings, can tell you what you wouldn’t mind all that much.
 
-- Go to LinkedIn and check where the alumni are currently. This is much better data than placement statistics. It is genuine and not easily manipulated. Also, it gives you a long-term idea. If the alumni are placed at places you’d like to work at, that’s a good sign. You can check IIT Gandhinagar’s alumni data [here](https://www.linkedin.com/school/indian-institute-of-technology-gandhinagar-iitgn-/people/?facetFieldOfStudy=100189) (You’ll need a LinkedIn account, which you should make, anyway).  
+- Go to LinkedIn and check where the alumni are currently. This is much better data than placement statistics. It is genuine and not easily manipulated. Also, it gives you a long-term idea. If the alumni are placed at places you’d like to work at, that’s a good sign. You can check IIT Gandhinagar’s alumni data [here](https://www.linkedin.com/school/indian-institute-of-technology-gandhinagar-iitgn-/people/?facetFieldOfStudy=100189) (You’ll need a LinkedIn account).  
 ![][image1]
 
-- Look at the faculty of the department you’re considering. Check where they completed their education and their research credentials. Also, check the student-to-faculty ratio. The most important thing, but almost always disregarded at a college, is the people there. Most of your peers will be at a similar level, regardless of the institution you choose. The faculty matters especially if you are interested in going into research, but even if you aren’t, it matters.
+- Look at the faculty of the department you’re considering. Check where they completed their education and their research credentials. Also, check the student-to-faculty ratio. The most important factor, but usually always ignored while selecting a college, is the people there. Most of your peers will be at a similar level, regardless of the institution you choose. The faculty matters especially if you are interested in going into research, but even if you aren’t, it matters.
 
 - Check the curriculum of the program you’re considering. A flexible curriculum is better. Ideally, you should be able to study what you want to instead of having to follow a rigid curriculum. Some courses are necessary, but beyond that, students should be given more freedom.
 
