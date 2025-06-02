@@ -19,13 +19,13 @@ Before getting into what you should do, let’s make it clear why previous years
 
 - Even if they are accurate, you are assuming that maximising your first year’s salary is equivalent to long-term success (which is false if think so).  
 
-- Placements are variable. They are highly affected by the ongoing situation. Not very reliable. 
+- Placements are variable. They are highly affected by the ongoing situation and not reliable.
 
 - If you are looking at median packages (assuming that you are smarter than people who look at average packages), you are only looking at the median package. CSE has a higher median package than Civil, but the highest package in Civil is more often than not, higher than the median package of CSE. Even if it is not, it is pretty close. CSE is quite competitive, and in Civil, even the students of the discipline are not sure whether they should focus on their discipline or not. If you commit to Civil, it is not so hard to be close to the top of your department.
 
 ## What to do?
 
-Now that it is hopefully clear that previous years’ closing ranks and placement data are like eating from the trash can to plan your diet by watching what people threw away last year, let’s discuss what you should instead do.
+Now that it is hopefully clear that previous years’ closing ranks and placement data are like eating from the trashcan to plan your diet by watching what people threw away last year, let’s discuss what you should instead do.
 
 In my opinion, you should optimise for flexibility. Most of you won’t really know what you want to do in your life. So, unless you are already sure about what you want to do, keep your options open. How do you do that? 
 
