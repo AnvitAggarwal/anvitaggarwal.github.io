@@ -3,7 +3,6 @@ title: "ES114 Exposition Assignment Blog"
 author: "Aarav Trivedi, Ajinkya Sadavarte and Anvit Aggarwal"
 date: "2025-02-25"
 categories: [Python, Latex]
-image: "download.png"
 ---
 
 # Tikzplotlib

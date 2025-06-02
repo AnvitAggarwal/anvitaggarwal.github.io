@@ -1,12 +1,9 @@
 ---
 title: "Is the Points Tally in IPL Fair?"
 author: "Anvit Aggarwal"
-date: "2025-06-02"
+date: "2025-06-01"
 categories: [Cricket, IPL]
-image: "ipl.jpeg"
 ---
-
-<img src="ipl.jpeg" alt="credit: Sportzpics" width="600" height="400"/>
 
 Two new teams, namely, Gujarat Titans and Lucknow Supergiants, were added to the IPL in 2022\. Since then, the seasons have had 70-match seasons, which means that each team plays only 14 matches instead of the 18 it should have played if the tournament were a fair tournament. By a fair tournament, I mean that all teams would face each other twice, once at home and once away. Currently, the schedule of the IPL results in teams having different levels of opposition. Some teams have a harder schedule while other teams have an easier schedule. I think that this problem is solvable. I used a chess-like Elo-based algorithm to analyse the actual strengths of the teams. All teams were assigned an equal rating of 1200 at the beginning, and I ran the tournament and updated the ratings 1000 times to ensure that the ratings of each team converged to the level of their performance. You can view the graphs that show the ratings of each team after each iteration. Then, I predicted the number of wins of each team from the ratings. In each case, the number of predicted wins matches the actual number of wins. Then, I predicted what would have happened if the tournament were fair. You can view the code here:  
 [Link to Code](https://colab.research.google.com/drive/1dL6TiElIQ2SKHf8p_KKPHnP791ggPCCy?usp=sharing)
