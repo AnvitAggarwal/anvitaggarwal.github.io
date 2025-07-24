@@ -10,8 +10,6 @@ website:
         text: Home
       - href: blog/index.html
         text: Blog
-      - text: "Quotes"
-        href: quotes/quotes.qmd
 
 format:
   html:
